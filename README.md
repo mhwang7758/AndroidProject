@@ -15,3 +15,6 @@ Android工程专用库，以后的Android相关的demo都将放在此库下
 获取设备mac地址等信息。
 
 ![效果图](https://52code.tech/images/github/read_mac_address.gif)
+
+# TestUsbCopy
+测试u盘插入检测复制
